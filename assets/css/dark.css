@@ -127,11 +127,11 @@ Default CSS
 }
 
 .theme-dark .crake-nav.marketing-navbar nav .navbar-nav li a.active {
-  color: #13c4a1 !important;
+  color: #eeee9b !important;
 }
 
 .theme-dark .crake-nav.marketing-navbar nav .navbar-nav li a:hover {
-  color: #13c4a1 !important;
+  color: #eeee9b !important;
 }
 
 .theme-dark .crake-nav nav .navbar-nav li .dropdown_menu {
@@ -156,7 +156,7 @@ Default CSS
 }
 
 .theme-dark .main-banner.marketing-home .hero-content .video-btn:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .theme-dark .main-banner .signup-download {
@@ -215,7 +215,7 @@ Default CSS
 
 .theme-dark .single-features .icon {
   background: #0e0e0e;
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .theme-dark .shape7 {
@@ -390,7 +390,7 @@ Default CSS
 }
 
 .theme-dark .footer-area .single-footer-widget ul.social-list li a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .theme-dark .platform-connect {
@@ -527,7 +527,7 @@ Default CSS
 }
 
 .theme-dark .cart-table table tbody tr td.product-name a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .theme-dark .form-control {
@@ -686,7 +686,7 @@ Default CSS
 }
 
 .theme-dark .faq-accordion .accordion .accordion-item .accordion-title.active {
-  background-color: #13c4a1;
+  background-color: #eeee9b;
 }
 
 .theme-dark .contact-info-box {

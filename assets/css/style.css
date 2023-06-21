@@ -133,7 +133,7 @@ button {
 .btn-primary:focus,
 .btn-primary:active {
   color: #ffffff;
-  background: #13c4a1;
+  background: #eeee9b;
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
 }
@@ -155,7 +155,7 @@ button {
 .btn-primary:not(:disabled):not(.disabled):active,
 .btn-primary .show > .btn-primary.dropdown-toggle {
   color: #ffffff;
-  background: #13c4a1;
+  background: #eeee9b;
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
 }
@@ -172,7 +172,7 @@ button {
 .btn-primary.disabled:focus,
 .btn-primary:disabled:hover,
 .btn-primary:disabled:focus {
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .btn {
@@ -199,7 +199,7 @@ button {
   width: 0;
   -webkit-transition: 0.4s;
   transition: 0.4s;
-  background: #13c4a1;
+  background: #eeee9b;
   z-index: -1;
   border-radius: 5px;
 }
@@ -241,7 +241,7 @@ button {
 .section-title .bar {
   height: 4px;
   width: 85px;
-  background: #13c4a1;
+  background: #eeee9b;
   margin: 20px auto 25px;
   position: relative;
   border-radius: 5px;
@@ -330,7 +330,7 @@ button {
 .form-control:focus {
   color: #818992;
   background-color: #ffffff;
-  border-color: #13c4a1;
+  border-color: #eeee9b;
   outline: 0;
   -webkit-box-shadow: unset;
   box-shadow: unset;
@@ -390,8 +390,8 @@ Preloader CSS
   margin: 6px;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  border: 36px solid #13c4a1;
-  border-color: #13c4a1 transparent #ff8a73 transparent;
+  border: 36px solid #eeee9b;
+  border-color: #eeee9b transparent #ff8a73 transparent;
   -webkit-animation: lds-hourglass 2.9s infinite;
   animation: lds-hourglass 2.9s infinite;
 }
@@ -462,7 +462,7 @@ Preloader CSS
 }
 
 .buy-now-btn:hover {
-  background-color: #13c4a1;
+  background-color: #EEEE9B;
   color: #ffffff;
 } */
 
@@ -575,7 +575,7 @@ Navbar CSS
 
 .crake-nav nav .navbar-nav li .dropdown_menu li a::before {
   left: 0;
-  background: #13c4a1;
+  background: #eeee9b;
   opacity: 0;
   visibility: hidden;
   top: 50%;
@@ -583,7 +583,7 @@ Navbar CSS
 }
 
 .crake-nav nav .navbar-nav li .dropdown_menu li a:hover {
-  color: #13c4a1 !important;
+  color: #eeee9b !important;
   padding-left: 25px !important;
 }
 
@@ -594,7 +594,7 @@ Navbar CSS
 }
 
 .crake-nav nav .navbar-nav li .dropdown_menu li a.active {
-  color: #13c4a1 !important;
+  color: #eeee9b !important;
   padding-left: 25px !important;
 }
 
@@ -624,7 +624,7 @@ Navbar CSS
 }
 
 .crake-nav nav .navbar-nav li .dropdown_menu li .dropdown_menu li a:hover {
-  color: #13c4a1 !important;
+  color: #eeee9b !important;
   padding-left: 25px !important;
 }
 
@@ -643,7 +643,7 @@ Navbar CSS
 }
 
 .crake-nav nav .navbar-nav li .dropdown_menu li .dropdown_menu li a.active {
-  color: #13c4a1 !important;
+  color: #eeee9b !important;
   padding-left: 25px !important;
 }
 
@@ -669,7 +669,7 @@ Navbar CSS
 
 .crake-nav nav .navbar-nav li .dropdown_menu li:hover a {
   padding-left: 25px !important;
-  color: #13c4a1 !important;
+  color: #eeee9b !important;
 }
 
 .crake-nav nav .navbar-nav li .dropdown_menu li:hover a::before {
@@ -852,13 +852,13 @@ Navbar CSS
 }
 
 .crake-nav.marketing-navbar nav .navbar-nav li a::before {
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .crake-nav.marketing-navbar nav .navbar-nav li a:hover,
 .crake-nav.marketing-navbar nav .navbar-nav li a:focus,
 .crake-nav.marketing-navbar nav .navbar-nav li a.active {
-  color: #13c4a1 !important;
+  color: #eeee9b !important;
 }
 
 .crake-nav.marketing-navbar nav .navbar-nav li .side-menu .bar-1 {
@@ -901,7 +901,7 @@ Navbar CSS
   z-index: 999;
   -webkit-box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
-  background-color: #13c4a1 !important;
+  background-color: #eeee9b !important;
   -webkit-animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
   animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
 }
@@ -939,10 +939,10 @@ Navbar CSS
   color: #222d39;
   font-size: 20px;
   text-align: left;
-  border-bottom: 1px solid #13c4a1;
-  border-top: 1px solid #13c4a1;
-  border-left: 1px solid #13c4a1;
-  border-right: 1px solid #13c4a1;
+  border-bottom: 1px solid #eeee9b;
+  border-top: 1px solid #eeee9b;
+  border-left: 1px solid #eeee9b;
+  border-right: 1px solid #eeee9b;
   margin: 0px auto;
   padding: 25px 10px 25px 30px;
   outline: none;
@@ -988,9 +988,9 @@ Navbar CSS
 
 .header-search .close:hover,
 .header-search .close:focus {
-  background-color: #13c4a1 !important;
+  background-color: #eeee9b !important;
   color: #ffffff !important;
-  border-color: #13c4a1 !important;
+  border-color: #eeee9b !important;
   opacity: 1 !important;
 }
 
@@ -1060,7 +1060,7 @@ Navbar CSS
   width: 70px;
   height: 2px;
   border-radius: 5px;
-  background: #13c4a1;
+  background: #eeee9b;
   content: "";
 }
 
@@ -1126,7 +1126,7 @@ Navbar CSS
   background: #f4f4f4 none repeat scroll 0 0;
   border: 1px solid #e7e7e7;
   border-radius: 5px;
-  color: #13c4a1;
+  color: #eeee9b;
   height: 50px;
   text-align: center;
   width: 50px;
@@ -1159,7 +1159,7 @@ Navbar CSS
   i {
   color: #ffffff;
   border-color: #ffffff;
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .sidebar-modal
@@ -1213,8 +1213,8 @@ Navbar CSS
   li
   a:focus {
   color: #ffffff;
-  background: #13c4a1;
-  border-color: #13c4a1;
+  background: #eeee9b;
+  border-color: #eeee9b;
 }
 
 .sidebar-modal .modal-header {
@@ -1226,7 +1226,7 @@ Navbar CSS
 .sidebar-modal .modal-header .close {
   height: 50px;
   width: 50px;
-  background: #13c4a1;
+  background: #eeee9b;
   font-size: 25px;
   color: #ffffff;
   margin: 0px;
@@ -1273,7 +1273,7 @@ Main Banner CSS
 =================================================*/
 .main-banner {
   height: 840px;
-  background: #13c4a1;
+  background: #eeee9b;
   position: relative;
   z-index: 1;
 }
@@ -1345,7 +1345,7 @@ Main Banner CSS
   border-radius: 3px;
   color: #ffffff;
   padding-left: 20px;
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .main-banner .hero-content form .form-control::-webkit-input-placeholder {
@@ -1701,12 +1701,12 @@ Main Banner CSS
 
 .main-banner.marketing-home .hero-content .video-btn:hover i,
 .main-banner.marketing-home .hero-content .video-btn:focus i {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .main-banner.marketing-home .hero-content .btn:hover::after,
 .main-banner.marketing-home .hero-content .btn:hover::before {
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .main-banner.marketing-home
@@ -1720,13 +1720,13 @@ Main Banner CSS
   .btn-primary
   .show
   > .btn-primary.dropdown-toggle {
-  background: #13c4a1;
+  background: #eeee9b;
   color: #ffffff;
 }
 
 .main-banner.marketing-home .hero-content .btn-primary:hover,
 .main-banner.marketing-home .hero-content .btn-primary:focus {
-  background: #13c4a1;
+  background: #eeee9b;
   color: #ffffff;
 }
 
@@ -1941,7 +1941,7 @@ Main Banner CSS
 }
 
 .startup-home.owl-theme .owl-nav [class*="owl-"]:hover {
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .app-home .shape4 {
@@ -2339,7 +2339,7 @@ Features CSS
   background: #edf5ff;
   border-radius: 50%;
   font-size: 30px;
-  color: #13c4a1;
+  color: #eeee9b;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -2437,7 +2437,7 @@ Features CSS
   border-radius: 50%;
   text-align: center;
   font-size: 30px;
-  color: #13c4a1;
+  color: #eeee9b;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -2489,7 +2489,7 @@ Features CSS
   border-radius: 50%;
   font-size: 25px;
   text-align: center;
-  color: #13c4a1;
+  color: #eeee9b;
   -webkit-box-shadow: 0 0 1.25rem rgba(108, 118, 134, 0.1) !important;
   box-shadow: 0 0 1.25rem rgba(108, 118, 134, 0.1) !important;
   -webkit-transition: 0.4s;
@@ -2533,7 +2533,7 @@ Product New Features CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background: #13c4a1;
+  background: #eeee9b;
   opacity: 0.87;
 }
 
@@ -2554,7 +2554,7 @@ Product New Features CSS
 }
 
 .new-features-content .section-title .bar::before {
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .new-features-content .single-inner-features {
@@ -2616,7 +2616,7 @@ Services CSS
   background: #edf5ff;
   border-radius: 50%;
   font-size: 25px;
-  color: #13c4a1;
+  color: #eeee9b;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -2636,7 +2636,7 @@ Services CSS
 }
 
 .single-services:hover .icon {
-  background: #13c4a1;
+  background: #eeee9b;
   color: #ffffff;
 }
 
@@ -2677,7 +2677,7 @@ Book Discover CSS
 }
 
 .discover-content ul li i {
-  color: #13c4a1;
+  color: #eeee9b;
   margin-right: 2px;
 }
 
@@ -2757,7 +2757,7 @@ Overview CSS
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .overview-box .overview-content ul li:last-child {
@@ -2799,7 +2799,7 @@ Overview CSS
   left: 0;
   top: 0;
   font-size: 30px;
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .overview-box.modern-flexible .single-item h3 {
@@ -2852,7 +2852,7 @@ Overview CSS
 }
 
 .overview-box .app-fetured-item .app-item.item-two {
-  background-image: -webkit-linear-gradient(40deg, #13c4a1 0, #41cbb0 100%);
+  background-image: -webkit-linear-gradient(40deg, #eeee9b 0, #41cbb0 100%);
   -webkit-box-shadow: 0 20px 40px 0 rgba(19, 196, 161, 0.4);
   box-shadow: 0 20px 40px 0 rgba(19, 196, 161, 0.4);
   left: 125px;
@@ -2910,7 +2910,7 @@ CTA CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background: #13c4a1;
+  background: #eeee9b;
   opacity: 0.87;
 }
 
@@ -3016,21 +3016,21 @@ SAAS Tools CSS
 }
 
 .tab .tabs li a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .tab .tabs li a:hover i {
   color: #ffffff;
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .tab .tabs li.current i {
   color: #ffffff;
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .tab .tabs li.current a {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .tab .tab_content .tabs_item {
@@ -3071,7 +3071,7 @@ SAAS Tools CSS
 .tab .tab_content .tabs_item .tabs_item_content ul li i {
   margin-right: 3px;
   font-size: 14px;
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 /*================================================
@@ -3098,7 +3098,7 @@ Fun Facts CSS
   background: #edf5ff;
   border-radius: 50%;
   font-size: 25px;
-  color: #13c4a1;
+  color: #eeee9b;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -3122,7 +3122,7 @@ Fun Facts CSS
 }
 
 .single-funfact:hover .icon {
-  background: #13c4a1;
+  background: #eeee9b;
   color: #ffffff;
 }
 
@@ -3142,7 +3142,7 @@ Fun Facts CSS
   background: #edf5ff;
   border-radius: 50%;
   font-size: 25px;
-  color: #13c4a1;
+  color: #eeee9b;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -3203,7 +3203,7 @@ Fun Facts CSS
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .fun-facts-inner-area .fun-facts-inner-content ul li:last-child {
@@ -3229,7 +3229,7 @@ Fun Facts CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background: #13c4a1;
+  background: #eeee9b;
   opacity: 0.87;
 }
 
@@ -3279,7 +3279,7 @@ Work Process CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background: #13c4a1;
+  background: #eeee9b;
   opacity: 0.87;
 }
 
@@ -3293,7 +3293,7 @@ Work Process CSS
 }
 
 .saas-work-process .section-title .bar::before {
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .single-work-process {
@@ -3334,7 +3334,7 @@ Work Process CSS
   background: #edf5ff;
   border-radius: 50%;
   font-size: 25px;
-  color: #13c4a1;
+  color: #eeee9b;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -3354,7 +3354,7 @@ Work Process CSS
 }
 
 .single-work-process:hover .icon {
-  background: #13c4a1;
+  background: #eeee9b;
   color: #ffffff;
 }
 
@@ -3437,7 +3437,7 @@ Pricing CSS
   content: "";
   width: 100%;
   height: 1px;
-  background: #13c4a1;
+  background: #eeee9b;
   position: absolute;
   top: 50%;
   left: 0;
@@ -3448,7 +3448,7 @@ Pricing CSS
 
 .pricingTable .pricingHeader .title {
   width: 50%;
-  background: #13c4a1;
+  background: #eeee9b;
   margin: 15px auto 10px;
   padding: 10px 0;
   font-size: 18px;
@@ -3496,7 +3496,7 @@ Pricing CSS
 }
 
 .pricingTable:hover .pricing-icon {
-  background: #13c4a1;
+  background: #eeee9b;
   color: #ffffff;
 }
 
@@ -3517,7 +3517,7 @@ Pricing CSS
   transition: 0.3s ease-in;
   position: relative;
   z-index: 1;
-  background-color: #13c4a1;
+  background-color: #eeee9b;
   border-radius: 5px;
   overflow: hidden;
   -webkit-box-shadow: 0 0 1.25rem rgba(108, 118, 134, 0.1);
@@ -3627,7 +3627,7 @@ Pricing CSS
 
 .pricing-table-box .pricingTable-header {
   padding: 30px 15px 45px;
-  background: #13c4a1;
+  background: #eeee9b;
   -webkit-clip-path: polygon(50% 100%, 100% 60%, 100% 0, 0 0, 0 60%);
   clip-path: polygon(50% 100%, 100% 60%, 100% 0, 0 0, 0 60%);
   position: relative;
@@ -3731,7 +3731,7 @@ Project CSS
 }
 
 .project-area .owl-theme .owl-nav [class*="owl-"]:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .project-area .owl-theme .owl-controls {
@@ -3803,7 +3803,7 @@ Project CSS
 }
 
 .single-project .project-image a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .single-project .project-image img {
@@ -3922,7 +3922,7 @@ Project Details CSS
   ul
   li
   a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 /*================================================
@@ -3967,7 +3967,7 @@ Gallery CSS
 }
 
 .single-image a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .single-image:hover::before {
@@ -4018,7 +4018,7 @@ Get Started CSS
 }
 
 .get-started-form form p a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 /*================================================
@@ -4042,7 +4042,7 @@ How App Works CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background: #13c4a1;
+  background: #eeee9b;
   opacity: 0.87;
 }
 
@@ -4056,7 +4056,7 @@ How App Works CSS
 }
 
 .how-app-work .section-title .bar::before {
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .how-app-work .app-mobile {
@@ -4083,7 +4083,7 @@ How App Works CSS
   border-radius: 50%;
   text-align: center;
   font-size: 30px;
-  color: #13c4a1;
+  color: #eeee9b;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -4131,7 +4131,7 @@ Screenshot CSS
 }
 
 .screenshot-slides.owl-theme .owl-nav [class*="owl-"]:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .screenshot-slides.owl-theme .owl-controls {
@@ -4210,7 +4210,7 @@ Screenshot CSS
 }
 
 .page-from-book .screenshot-item .popup-btn:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .page-from-book .screenshot-item img {
@@ -4259,7 +4259,7 @@ Team CSS
 }
 
 .team-slides.owl-theme .owl-nav [class*="owl-"]:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .team-slides.owl-theme .owl-controls {
@@ -4319,8 +4319,8 @@ Team CSS
 
 .single-team-member .team-content ul li a:hover {
   color: #ffffff;
-  background: #13c4a1;
-  border-color: #13c4a1;
+  background: #eeee9b;
+  border-color: #eeee9b;
 }
 
 .single-team-member .team-content ul li a.facebook {
@@ -4501,7 +4501,7 @@ Next Generation CSS
   left: 0;
   top: 0;
   font-size: 35px;
-  color: #13c4a1;
+  color: #eeee9b;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -4637,7 +4637,7 @@ Feedback CSS
   left: 0;
   width: 0;
   height: 4px;
-  background: #13c4a1;
+  background: #eeee9b;
   border-radius: 0 0 3px 3px;
   -webkit-transition: 0.4s;
   transition: 0.4s;
@@ -4732,7 +4732,7 @@ Feedback CSS
 }
 
 .feedback-slides.owl-theme .owl-nav [class*="owl-"]:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .feedback-slides.owl-theme .owl-controls {
@@ -4792,7 +4792,7 @@ App Download CSS
 
 .app-download .section-title .download-btn a:hover,
 .app-download .section-title .download-btn a:focus {
-  background: #13c4a1;
+  background: #eeee9b;
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
 }
@@ -4884,7 +4884,7 @@ Platform Connect CSS
 }
 
 .platform-connect .box:hover i {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 /*================================================
@@ -4916,7 +4916,7 @@ Blog CSS
 }
 
 .blog-area .owl-theme .owl-nav [class*="owl-"]:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .blog-area .owl-theme .owl-controls {
@@ -4956,7 +4956,7 @@ Blog CSS
 }
 
 .single-blog-post .blog-post-content ul li i {
-  color: #13c4a1;
+  color: #eeee9b;
   margin-right: 4px;
 }
 
@@ -4965,7 +4965,7 @@ Blog CSS
 }
 
 .single-blog-post .blog-post-content ul li a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .single-blog-post .blog-post-content h3 {
@@ -5017,7 +5017,7 @@ Blog Details CSS
   font-size: 25px;
   font-style: italic;
   font-weight: 700;
-  background: #13c4a1;
+  background: #eeee9b;
   color: #ffffff;
   border-radius: 5px;
   padding-top: 19px;
@@ -5037,7 +5037,7 @@ Blog Details CSS
 }
 
 .blog-details-area .blog-details .article-content ul.category li a {
-  background: #13c4a1;
+  background: #eeee9b;
   color: #ffffff;
   padding: 5px 15px 3px;
   display: inline-block;
@@ -5061,7 +5061,7 @@ Blog Details CSS
   margin-top: 20px;
   background: #f4f4f4;
   padding: 30px;
-  border-left: 4px solid #13c4a1;
+  border-left: 4px solid #eeee9b;
 }
 
 .blog-details-area .blog-details .article-content .blockquote p {
@@ -5088,8 +5088,8 @@ Blog Details CSS
 .blog-details-area .blog-details .article-content .share-post ul li a:hover,
 .blog-details-area .blog-details .article-content .share-post ul li a:focus {
   color: #ffffff;
-  border-color: #13c4a1;
-  background-color: #13c4a1;
+  border-color: #eeee9b;
+  background-color: #eeee9b;
 }
 
 .blog-details-area .blog-details .article-content ul {
@@ -5129,8 +5129,8 @@ Blog Details CSS
 .blog-details-area .post-controls-buttons div a:hover,
 .blog-details-area .post-controls-buttons div a:focus {
   color: #ffffff;
-  background: #13c4a1;
-  border-color: #13c4a1;
+  background: #eeee9b;
+  border-color: #eeee9b;
 }
 
 .blog-details-area .post-comments {
@@ -5237,7 +5237,7 @@ Boxes CSS
   border-radius: 50%;
   text-align: center;
   font-size: 25px;
-  color: #13c4a1;
+  color: #eeee9b;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -5336,7 +5336,7 @@ Analysis CSS
   top: 6px;
   width: 17px;
   height: 17px;
-  background: #13c4a1;
+  background: #eeee9b;
   -webkit-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
   clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
 }
@@ -5410,7 +5410,7 @@ Subscribe CSS
   top: 0;
   width: 100%;
   height: 100%;
-  background: #13c4a1;
+  background: #eeee9b;
   opacity: 0.67;
 }
 
@@ -5424,7 +5424,7 @@ Subscribe CSS
 }
 
 .subscribe-area .section-title .bar::before {
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .subscribe-area .newsletter-form {
@@ -5497,7 +5497,7 @@ Subscribe CSS
 }
 
 .bubble-animate .circle {
-  background: #13c4a1;
+  background: #eeee9b;
   bottom: 0;
   position: absolute;
   border-radius: 50%;
@@ -5979,7 +5979,7 @@ Product CSS
 }
 
 .product-slides.owl-theme .owl-nav [class*="owl-"]:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .product-slides.owl-theme .owl-controls {
@@ -6042,7 +6042,7 @@ Product Details CSS
 }
 
 .shop-details .product-entry-summary ul.product-categories li a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .shop-details .product-entry-summary ul.share-social li {
@@ -6063,8 +6063,8 @@ Product Details CSS
 
 .shop-details .product-entry-summary ul.share-social li a:hover {
   color: #ffffff;
-  background: #13c4a1;
-  border-color: #13c4a1;
+  background: #eeee9b;
+  border-color: #eeee9b;
 }
 
 .shop-details .product-entry-summary form {
@@ -6102,7 +6102,7 @@ Product Details CSS
 }
 
 .shop-details .owl-theme .owl-nav [class*="owl-"]:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .shop-details .owl-theme .owl-controls {
@@ -6140,7 +6140,7 @@ Product Details CSS
   height: 4px;
   top: 0;
   left: 0;
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .shop-details .shop-details-tabs #tabs li.inactive {
@@ -6227,7 +6227,7 @@ Page Title CSS
 =================================================*/
 .page-title-banner {
   position: relative;
-  background: #13c4a1;
+  background: #eeee9b;
   z-index: 1;
   padding-top: 200px;
   padding-bottom: 120px;
@@ -6273,14 +6273,14 @@ Pagination CSS
 .pagination-area ul .page-item .page-link:hover,
 .pagination-area ul .page-item .page-link:focus {
   color: #ffffff;
-  background-color: #13c4a1;
+  background-color: #eeee9b;
   -webkit-box-shadow: unset;
   box-shadow: unset;
 }
 
 .pagination-area ul .page-item.active .page-link {
   color: #ffffff;
-  background-color: #13c4a1;
+  background-color: #eeee9b;
 }
 
 /*================================================
@@ -6300,7 +6300,7 @@ Sidebar CSS
 }
 
 .sidebar-area .widget.widget-search form .form-control:focus {
-  border-color: #13c4a1;
+  border-color: #eeee9b;
 }
 
 .sidebar-area .widget.widget-search form button {
@@ -6317,7 +6317,7 @@ Sidebar CSS
 }
 
 .sidebar-area .widget.widget-search form button:hover {
-  background: #13c4a1;
+  background: #eeee9b;
   color: #ffffff;
 }
 
@@ -6334,7 +6334,7 @@ Sidebar CSS
 .sidebar-area .widget .bar {
   height: 4px;
   width: 65px;
-  background: #13c4a1;
+  background: #eeee9b;
   margin: 12px 0 30px;
   position: relative;
   border-radius: 5px;
@@ -6380,7 +6380,7 @@ Sidebar CSS
 }
 
 .sidebar-area .widget.widget_product_categories ul li a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
   padding-left: 17px;
 }
 
@@ -6422,7 +6422,7 @@ Sidebar CSS
 }
 
 .sidebar-area .widget.widget_post_categories ul li a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
   padding-left: 17px;
 }
 
@@ -6454,7 +6454,7 @@ Sidebar CSS
 
 .sidebar-area .widget.widget_tag_cloud .tagcloud a:hover {
   color: #ffffff;
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .sidebar-area .widget.widget_recent_posts ul {
@@ -6618,7 +6618,7 @@ Login CSS
 }
 
 .login-form form .forgot-password a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .login-form form .btn {
@@ -6715,7 +6715,7 @@ FAQ CSS
 .faq-accordion .accordion .accordion-item .accordion-title:hover,
 .faq-accordion .accordion .accordion-item .accordion-title.active,
 .faq-accordion .accordion .accordion-item .accordion-title:focus {
-  background: #13c4a1;
+  background: #eeee9b;
   color: #ffffff;
 }
 
@@ -6866,14 +6866,14 @@ Coming Soon CSS
 }
 
 .coming-soon .coming-soon-content form .form-control:focus {
-  border-color: #13c4a1;
+  border-color: #eeee9b;
 }
 
 .coming-soon .coming-soon-content form button {
   position: absolute;
   right: 0;
   height: 100%;
-  background: #13c4a1;
+  background: #eeee9b;
   top: 0;
   color: #ffffff;
   border: none;
@@ -6950,7 +6950,7 @@ Cart CSS
 }
 
 .cart-table table tbody tr td.product-name a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .cart-table table tbody tr td.product-remove a {
@@ -6983,7 +6983,7 @@ Cart CSS
 }
 
 .cart-buttons .coupon-box button:hover {
-  background: #13c4a1;
+  background: #eeee9b;
 }
 
 .cart-totals {
@@ -7034,17 +7034,17 @@ Checkout CSS
   background: #ffffff;
   padding: 18px 25px 15px;
   margin-bottom: 45px;
-  border-top: 3px solid #13c4a1;
+  border-top: 3px solid #eeee9b;
 }
 
 .user-actions i {
-  color: #13c4a1;
+  color: #eeee9b;
   margin-right: 4px;
 }
 
 .user-actions span {
   display: inline-block;
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .user-actions span a {
@@ -7060,7 +7060,7 @@ Checkout CSS
 .checkout-area .bar {
   height: 4px;
   width: 65px;
-  background: #13c4a1;
+  background: #eeee9b;
   margin: 12px 0 30px;
   position: relative;
   border-radius: 5px;
@@ -7147,7 +7147,7 @@ Checkout CSS
 }
 
 .order-details .order-table table tbody tr td.product-name a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .order-details .order-table table tbody tr td.order-subtotal span,
@@ -7203,7 +7203,7 @@ Checkout CSS
   content: "";
   width: 12px;
   height: 12px;
-  background: #13c4a1;
+  background: #eeee9b;
   position: absolute;
   top: 6px;
   left: 3px;
@@ -7252,7 +7252,7 @@ Contact Us CSS
   background: #edf5ff;
   border-radius: 50%;
   font-size: 30px;
-  color: #13c4a1;
+  color: #eeee9b;
   -webkit-transition: 0.4s;
   transition: 0.4s;
 }
@@ -7272,7 +7272,7 @@ Contact Us CSS
 }
 
 .contact-info-box p a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .contact-info-box:hover {
@@ -7350,7 +7350,7 @@ Footer CSS
 }
 
 .footer-area .single-footer-widget ul.social-list li a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 .footer-area .single-footer-widget ul.social-list li:last-child {
@@ -7368,7 +7368,7 @@ Footer CSS
 }
 
 .footer-area .single-footer-widget ul.list li a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
   padding-left: 7px;
 }
 
@@ -7427,7 +7427,7 @@ Footer CSS
 }
 
 .copyright-area ul li a:hover {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 
 /*================================================
@@ -7473,7 +7473,7 @@ Back To Top CSS
 .back-to-top::after {
   bottom: 0;
   z-index: 5;
-  border-bottom: 20px solid #13c4a1;
+  border-bottom: 20px solid #eeee9b;
 }
 
 .back-to-top:hover,

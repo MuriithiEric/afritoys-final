@@ -35,10 +35,10 @@ a.meanmenu-reveal {
   border-radius: 3px;
 }
 .marketing-mobile-nav.mean-container a.meanmenu-reveal {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 .marketing-mobile-nav.mean-container a.meanmenu-reveal span {
-  background: #13c4a1;
+  background: #eeee9b;
 }
 .mean-container .mean-nav {
   float: left;
@@ -69,7 +69,7 @@ a.meanmenu-reveal {
   text-decoration: none;
 }
 .mean-container .mean-nav ul li a.active {
-  color: #13c4a1;
+  color: #eeee9b;
 }
 .mean-container .mean-nav ul li li a {
   width: 80%;
