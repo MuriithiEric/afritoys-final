@@ -892,6 +892,8 @@ Navbar CSS
   background: #ffffff !important;
 }
 
+/* Default sticky behavior for larger screens */
+/* Default sticky behavior for larger screens */
 .crake-nav.is-sticky {
   position: fixed;
   top: 0;
@@ -901,9 +903,24 @@ Navbar CSS
   z-index: 999;
   -webkit-box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 7px 13px 0 rgba(0, 0, 0, 0.1);
-  background-color: #eeee9b !important;
+  background-color: #f9ecd9 !important;
   -webkit-animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
   animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
+}
+
+/* Remove sticky behavior for screens smaller than 768px (mobile devices) */
+@media (max-width: 768px) {
+  .crake-nav.is-sticky {
+    position: relative; /* Use relative positioning instead of static */
+    box-shadow: none; /* Remove shadow */
+    background-color: inherit; /* Remove background color */
+    padding: 10px 0; /* Ensure the navbar maintains padding */
+  }
+
+  /* Optional: Ensure the .crake-nav has proper height on mobile */
+  .crake-nav {
+    height: auto; /* Ensure height is auto on mobile to prevent collapse */
+  }
 }
 
 .header-search {
@@ -1270,13 +1287,16 @@ Navbar CSS
 
 /*================================================
 Main Banner CSS
-=================================================*/
+================================================= #eeee9b*/
+
 .main-banner {
   height: 840px;
-  background: #eeee9b;
+  background: #f9ecd9;
   position: relative;
   z-index: 1;
 }
+
+/* #eeee9b */
 
 .main-banner .hero-content h1 {
   color: #025928;
@@ -6227,7 +6247,7 @@ Page Title CSS
 =================================================*/
 .page-title-banner {
   position: relative;
-  background: #eeee9b;
+  background: #f9ecd9; /*#eeee9b*/
   z-index: 1;
   padding-top: 200px;
   padding-bottom: 120px;

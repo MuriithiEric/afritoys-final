@@ -401,9 +401,9 @@
     });
 
   // Buy Now Btn
-  $("body").append(
-    "<a href='https://themeforest.net/checkout/from_item/23433969?license=regular&support=bundle_6month&_ga=2.221978392.1657781501.1653794352-1356931366.1645330919' target='_blank' class='buy-now-btn'><img src='assets/img/envato.png' alt='envato'/>Buy Now</a>"
-  );
+  // $("body").append(
+  //   "<a href='https://themeforest.net/checkout/from_item/23433969?license=regular&support=bundle_6month&_ga=2.221978392.1657781501.1653794352-1356931366.1645330919' target='_blank' class='buy-now-btn'><img src='assets/img/envato.png' alt='envato'/>Buy Now</a>"
+  // );
 
   // Switch Btn
   $("body").append(
